@@ -1,3 +1,3 @@
 # Hello-World
-First repositry
-I am an RF designer who is lost in the world of programming.
+My First repositry
+I am an RF designer who is finding his way in the world of programming.
