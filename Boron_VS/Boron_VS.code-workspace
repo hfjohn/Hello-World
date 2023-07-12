@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Boron_VS",
+			"path": "C:/Users/JohnR/Desktop/VSBoron/Boron_VS"
+		}
+	],
+	"settings": {
+		"extensions.ignoreRecommendations": true,
+		"files.associations": {
+			"*.ino": "cpp"
+		}
+	}
+}
